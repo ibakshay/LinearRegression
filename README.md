@@ -1,4 +1,2 @@
 # Linear_Regression
 
-
-..
